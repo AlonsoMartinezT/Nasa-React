@@ -1,0 +1,48 @@
+.about-container {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }  
+  .personal-info,
+  .nasa-info {
+    margin-bottom: 30px;
+  }
+  
+  h1, h2 {
+    text-shadow: 
+    0 0 10px cyan,
+    0 0 20px cyan,
+    0 0 40px cyan,
+    0 0 80px cyan;
+    color: rgb(26, 1, 255);
+  }
+  .photo-container {
+    display: flex;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .personal-photo {
+    width: 900px;
+    height: auto;
+    border: 3px solid #ddd;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: white;
+  }
+  

@@ -1,0 +1,47 @@
+.apod {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e; 
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.apod h1 {
+    color: white;
+    text-shadow: 
+    0 0 10px cyan,
+    0 0 20px cyan,
+    0 0 40px cyan,
+    0 0 80px cyan;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.apod-img {
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7);
+}
+
+.apod-date {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: #f1f1f1;
+    font-style: italic;
+}
+
+.apod-explanation {
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #ddd;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+

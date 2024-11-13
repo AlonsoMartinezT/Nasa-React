@@ -1,0 +1,32 @@
+.titulo h1{
+    font-size: 2.5rem;
+    margin: 5px;
+    background: -webkit-linear-gradient(#024caa, #ec8305); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    background-color: #1a1a1a; 
+    justify-content: center; 
+    align-items: center; 
+    display: flex;
+}
+
+nav a {
+    margin: 0 15px;
+    padding: 8px 15px; 
+    color: white;
+}
+
+
+nav a:hover {
+    background-color: #ff8c00;
+}
+
+.logo{
+    width: 5rem;
+    height: auto;
+}

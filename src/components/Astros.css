@@ -1,0 +1,24 @@
+.astros-container {
+    display: flex; 
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.astro-card {
+    width: 30%;
+    height: 120px;
+    margin: 10px;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.astro-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ff8c00; 
+}
